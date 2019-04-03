@@ -1,0 +1,6 @@
+# Microsoft Developer Studio Generated Dependency File, included by hidewin.mak
+
+.\StdAfx.cpp : \
+	".\StdAfx.h"\
+	"c:\program files\devstudio6\vc98\include\basetsd.h"\
+	
